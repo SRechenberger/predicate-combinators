@@ -1,4 +1,4 @@
-module Data.Function.Predicate 
+module Data.Predicate 
 ( et
 , vel
 , non
